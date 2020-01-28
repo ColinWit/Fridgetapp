@@ -1,0 +1,15 @@
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\bin\Debug\netstandard2.0\Fridget.deps.json
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\bin\Debug\netstandard2.0\Fridget.dll
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\bin\Debug\netstandard2.0\ref\Fridget.dll
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\bin\Debug\netstandard2.0\Fridget.pdb
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\obj\Debug\netstandard2.0\Fridget.csprojAssemblyReference.cache
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\obj\Debug\netstandard2.0\View\CatagoryView.xaml.g.cs
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\obj\Debug\netstandard2.0\View\FridgeView.xaml.g.cs
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\obj\Debug\netstandard2.0\Fridget.AssemblyInfoInputs.cache
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\obj\Debug\netstandard2.0\Fridget.AssemblyInfo.cs
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\obj\Debug\netstandard2.0\Fridget.dll
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\obj\Debug\netstandard2.0\ref\Fridget.dll
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\obj\Debug\netstandard2.0\Fridget.pdb

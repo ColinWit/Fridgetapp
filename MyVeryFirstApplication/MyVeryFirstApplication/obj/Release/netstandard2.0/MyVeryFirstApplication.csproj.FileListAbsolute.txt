@@ -1,0 +1,15 @@
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\obj\Release\netstandard2.0\MyVeryFirstApplication.csprojAssemblyReference.cache
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\obj\Release\netstandard2.0\View\CatagoryView.xaml.g.cs
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\obj\Release\netstandard2.0\View\FridgeView.xaml.g.cs
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\obj\Release\netstandard2.0\View\MainPage.xaml.g.cs
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\obj\Release\netstandard2.0\MyVeryFirstApplication.AssemblyInfoInputs.cache
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\obj\Release\netstandard2.0\MyVeryFirstApplication.AssemblyInfo.cs
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\bin\Release\netstandard2.0\MyVeryFirstApplication.deps.json
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\bin\Release\netstandard2.0\MyVeryFirstApplication.dll
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\bin\Release\netstandard2.0\ref\MyVeryFirstApplication.dll
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\bin\Release\netstandard2.0\MyVeryFirstApplication.pdb
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\obj\Release\netstandard2.0\MyVeryFirstApplication.dll
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\obj\Release\netstandard2.0\ref\MyVeryFirstApplication.dll
+C:\Users\colin\source\repos\MyVeryFirstApplication\MyVeryFirstApplication\MyVeryFirstApplication\obj\Release\netstandard2.0\MyVeryFirstApplication.pdb

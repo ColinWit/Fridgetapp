@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:local="clr-namespace:MyVeryFirstApplication"
+               NavigationPage.HasNavigationBar="{Binding IsFullScreen}"
+             x:Class="MyVeryFirstApplication.View.FridgeView">
+    <ContentPage.Content>
+        <RelativeLayout>
+            <Image Source="screen2_userscreen.png"  Aspect="AspectFill"
+                RelativeLayout.WidthConstraint  ="{ConstraintExpression Type=RelativeToParent, Property=Width}"
+                RelativeLayout.HeightConstraint ="{ConstraintExpression Type=RelativeToParent, Property=Height}"
+            />
+            <Button
+                    WidthRequest="150" 
+                    HeightRequest="150"
+                    Opacity="0.01"
+                    Clicked="UserClicked"
+                 CommandParameter="user1" 
+                    RelativeLayout.XConstraint=
+                    "{ConstraintExpression 
+                        Type=RelativeToParent,
+                        Property=Width, 
+                        Factor=0.06}"
+                    RelativeLayout.YConstraint=
+                    "{ConstraintExpression 
+                            Type=RelativeToParent,
+                            Property=Height,
+                            Factor=0.28}"/>
+            <Button
+                    WidthRequest="150" 
+                    HeightRequest="150"
+                    Opacity="0.01"
+                    Clicked="UserClicked"
+                    CommandParameter="user2" 
+                    RelativeLayout.XConstraint=
+                    "{ConstraintExpression 
+                        Type=RelativeToParent,
+                        Property=Width, 
+                        Factor=0.58}"
+                    RelativeLayout.YConstraint=
+                    "{ConstraintExpression 
+                            Type=RelativeToParent,
+                            Property=Height,
+                            Factor=0.28}"/>
+            <Button
+                    WidthRequest="150" 
+                    HeightRequest="150"
+                    Opacity="0.01"
+                    Clicked="UserClicked"
+                    CommandParameter="user3" 
+                    RelativeLayout.XConstraint=
+                    "{ConstraintExpression 
+                        Type=RelativeToParent,
+                        Property=Width, 
+                        Factor=0.32}"
+                    RelativeLayout.YConstraint=
+                    "{ConstraintExpression 
+                            Type=RelativeToParent,
+                            Property=Height,
+                            Factor=0.55}"/>
+
+
+
+            <StackLayout x:Name="FridgeButtons">
+            </StackLayout>
+        </RelativeLayout>
+    </ContentPage.Content>
+</ContentPage>

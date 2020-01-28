@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MyVeryFirstApplication",
+    "\\MyVeryFirstApplication\\MyVeryFirstApplication",
+    "\\MyVeryFirstApplication\\MyVeryFirstApplication.Android\\Assets",
+    "\\MyVeryFirstApplication\\MyVeryFirstApplication.iOS",
+    "\\MyVeryFirstApplication\\MyVeryFirstApplication\\Helper"
+  ],
+  "SelectedNode": "\\MyVeryFirstApplication\\MyVeryFirstApplication\\Helper\\Class1.cs",
+  "PreviewInSolutionExplorer": false
+}
